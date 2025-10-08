@@ -1,0 +1,53 @@
+@import "tailwindcss";
+/* a{
+  text-decoration: none;
+
+}
+
+.card {
+  border: 1px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.459) ;
+  max-width: 250px;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+  overflow: hidden;
+  display: inline-block;
+}
+.card .card-image {
+  width: 60%;
+  height: auto;
+  border-radius: 50px;
+  margin-bottom: 10px;
+}
+.card .card-name {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: black;
+}
+
+.button {
+  padding: 50px;
+  font-size: 50px;
+  border: 2px solid aqua;
+  border-radius: 50px;
+  box-shadow: 0 0 10px grey;
+}
+.button:hover {
+  color: white;
+  background-color: grey;
+}
+/* button:active {
+  transform: scale(0.9);
+} */
+
+.welcome_guest{
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.welcome_user{
+  background-color: green;
+  color: white;
+  text-align: center;
+} */
