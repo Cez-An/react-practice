@@ -1,10 +1,10 @@
-import { ArrayUpdater } from "./arraySet";
+import { ToDoApp } from "./todoapp";
 
 
 const App:React.FC = ()=>{
   return (
 
-    <ArrayUpdater/>
+    <ToDoApp/>
     
   )
 }
