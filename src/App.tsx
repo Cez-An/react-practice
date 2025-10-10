@@ -1,12 +1,13 @@
-import { ToDoApp } from "./todoapp";
+import { ToDoApp } from "./components/todoapp";
+import { ToastContainer } from "react-toastify";
 
-
-const App:React.FC = ()=>{
+const App: React.FC = () => {
   return (
-
-    <ToDoApp/>
-    
-  )
-}
+    <>
+      <ToDoApp />
+      <ToastContainer  autoClose={2000} />
+    </>
+  );
+};
 
 export default App;
